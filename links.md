@@ -16,3 +16,7 @@ You can use this website as an early experience when writing git commands
 3. [Regex Cheatsheet](https://docs.linuxfoundation.org/v2/security-service/manage-false-positives/regular-expressions-cheat-sheet)<br>
 This is a website for you to get Regex references
 You can use this website as a place to look for your regex command
+
+4. [C Programming Learning Course](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
+This is a Youtube video for you to get a basic study of C programming language
+You can use this website as an introduction to C programming syntax and many more
