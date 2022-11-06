@@ -24,3 +24,6 @@ You can use this website as an introduction to C programming syntax and many mor
 5. [Assymetric Cryptography Learning](https://www.techtarget.com/searchsecurity/definition/asymmetric-cryptography)<br>
 This is a website for you to learn about Assymetric Cryptography
 You can use this website as a reference when explain Assymetric Cryptography definition and how it work to other people
+
+6. [Multithreading Introduction](https://www.techtarget.com/whatis/definition/multithreading)<br>
+This is a website for you to learn about the basics of multithreading. You can use this website as a foundation for your knowledge about multithreads programming.
