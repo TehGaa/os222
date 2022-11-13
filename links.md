@@ -27,3 +27,6 @@ You can use this website as a reference when explain Assymetric Cryptography def
 
 6. [Multithreading Introduction](https://www.techtarget.com/whatis/definition/multithreading)<br>
 This is a website for you to learn about the basics of multithreading. You can use this website as a foundation for your knowledge about multithreads programming.
+
+7. [What is Deadlock?](https://www.scaler.com/topics/operating-system/deadlock-in-os/)<br>
+This is a website for you to learn about the basics of deadlock. You can use this website as a foundation for your knowledge about deadlock.
