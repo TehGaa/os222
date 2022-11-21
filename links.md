@@ -30,3 +30,6 @@ This is a website for you to learn about the basics of multithreading. You can u
 
 7. [What is Deadlock?](https://www.scaler.com/topics/operating-system/deadlock-in-os/)<br>
 This is a website for you to learn about the basics of deadlock. You can use this website as a foundation for your knowledge about deadlock.
+
+8. [Differences between PID and PPID](https://www.baeldung.com/linux/pid-tid-ppid)<br>
+This is a website for you to learn about PID and PPID. You shall have a new insight about the differences between PID and PPID.
